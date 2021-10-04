@@ -6,3 +6,6 @@ https://openaltimetry.org/
 https://openaltimetry.org/data/swagger-ui/
 
 info@openaltimetry.org
+
+Funded by NASA grant number: NNX16AL89A
+
